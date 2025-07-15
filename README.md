@@ -1,6 +1,5 @@
 <!-- Banner de destaque -->
 <p align="center">
-   - Engenharia Elétrica" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou Victor Hugo Vieira Tavares! 👋</h1>
