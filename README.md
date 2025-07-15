@@ -1,6 +1,6 @@
 <!-- Banner de destaque -->
 <p align="center">
-  <img src="https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/main/banner.png" alt="Victor Hugo Vieira Tavares - Engenharia Elétrica" width="100%">
+   - Engenharia Elétrica" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou Victor Hugo Vieira Tavares! 👋</h1>
