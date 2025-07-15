@@ -16,7 +16,7 @@
 
 Sou estudante de Engenharia Elétrica com grande interesse por **tecnologia**, **inteligência artificial aplicada** e **educação científica**. Gosto de aplicar o conhecimento técnico em projetos que envolvam ensino, pesquisa e impacto social.
 
-Atualmente, desenvolvo atividades nas áreas de robótica, automação, eletricidade, inteligência artificial generativa e ensino de ciências. Também busco constantemente aprimorar minhas habilidades em **programação científica (Python)** e no uso de ferramentas como Git/GitHub para controle de projetos.
+Atualmente, desenvolvo atividades nas áreas de robótica, automação, eletricidade, inteligência artificial generativa e ensino de ciências. Também busco constantemente aprimorar minhas habilidades em **programação científica (Python)** e no uso de ferramentas como Git/GitHub, e C++ para controle de projetos.
 
 ---
 
