@@ -24,14 +24,13 @@ Atualmente, desenvolvo atividades nas áreas de robótica, automação, eletrici
 - ⚡ **Monitor do Laboratório de Eletricidade e Magnetismo** – UFCG  
 - 🤖 **Minicurso de Robótica Educacional** – ministrado para alunos do ensino médio  
 - 🔋 **Coordenador do IEEE Power & Energy Society – UFCG Student Branch**  
-- 🎮 **Pesquisador no projeto "Jogos Sérios com IA Generativa"** – Programa Probex  
-- 🧠 Estudo contínuo de **Cálculo Numérico** com foco em aplicações computacionais  
+- 🎮 **Pesquisador no projeto "Jogos Sérios com IA Generativa"** – Programa Probex   
 - 📈 Interesse crescente por **automação de sistemas elétricos com Python e MATLAB**
 
 ---
 ## 🌱 Atualmente aprendendo...
 
-- Python avançado aplicado a engenharia  
+- Python aplicado a engenharia  
 - Inteligência Artificial e automação de tarefas com IA Generativa  
 - C++ e python para analise de dados
 ## 📫 Contato
