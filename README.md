@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou Victor Hugo Vieira Tavares! 👋</h1>
 
 <p align="center">
-🎓 **Graduando em Engenharia Elétrica**  
+🎓 *Graduando em Engenharia Elétrica*  
 🔌 Universidade Federal de Campina Grande (UFCG)  
 📍 Campina Grande – PB, Brasil
 
