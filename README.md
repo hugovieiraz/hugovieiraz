@@ -25,7 +25,7 @@ Atualmente, desenvolvo atividades nas áreas de **machine learning, visão compu
 * 🤖 **Minicurso de Robótica Educacional** — ministrado para alunos do ensino médio
 * 🔋 **Coordenador do IEEE Power & Energy Society — UFCG Student Branch**
 * 🎮 **Pesquisador no projeto "Jogos Sérios com IA Generativa"** — Programa Probex
-* 🧠 **Participante de projeto EMBRAPII** — atividades voltadas para Machine Learning e Visão Computacional
+* 🧠 **Pesquisador do projeto EMBRAPII** — atividades voltadas para Machine Learning e Visão Computacional
 
 ---
 
