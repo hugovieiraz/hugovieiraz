@@ -39,5 +39,5 @@ Atualmente, desenvolvo atividades nas áreas de **machine learning, visão compu
 
 ## 📫 Contato
 
-* ✉️ Email: [victorhugovieiratavares@gmail.com](mailto:victorhugovieiratavares@gmail.com)
+* ✉️ Email: [victor.hugo.tavares@ee.ufcg.edu.br]
 
