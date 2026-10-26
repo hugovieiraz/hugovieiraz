@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="Diagnóstico de acionamentos">
+<style>.f{font-family:'Segoe UI',Helvetica,Arial,sans-serif} .bar{transform-origin:left;animation:g 1.2s ease-out both} @keyframes g{from{transform:scaleX(0)}to{transform:scaleX(1)}} @media (prefers-reduced-motion:reduce){.bar{animation:none}}</style>
+<rect x="1" y="1" width="558" height="298" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="1" y="1" width="6" height="298" rx="3" fill="#F2A93B"/>
+<text x="28" y="40" class="f" font-size="12" font-weight="600" letter-spacing="1.5" fill="#F2A93B">CLASSIFICAÇÃO · 11 CLASSES</text>
+<text x="28" y="72" class="f" font-size="22" font-weight="700" fill="#E6EDF3">Diagnóstico de acionamentos</text>
+<text x="28" y="100" class="f" font-size="14" fill="#8B949E">Sensorless Drive Diagnosis · 58 mil amostras</text>
+<text x="532" y="62" text-anchor="end" class="f" font-size="32" font-weight="700" fill="#E6EDF3">99,9%</text>
+<text x="532" y="80" text-anchor="end" class="f" font-size="12" fill="#8B949E">F1-macro no teste</text>
+<line x1="28" y1="120" x2="532" y2="120" stroke="#30363D"/>
+<text x="28" y="159" class="f" font-size="13" fill="#E6EDF3">Random Forest</text>
+<rect x="178" y="146" width="292" height="18" rx="4" fill="#0F141B"/>
+<rect class="bar" style="animation-delay:0.00s" x="178" y="146" width="290.5" height="18" rx="4" fill="#F2A93B"/>
+<text x="480" y="159" class="f" font-size="13" font-weight="600" fill="#E6EDF3">99,9%</text>
+<text x="28" y="195" class="f" font-size="13" fill="#8B949E">SVM (RBF)</text>
+<rect x="178" y="182" width="292" height="18" rx="4" fill="#0F141B"/>
+<rect class="bar" style="animation-delay:0.12s" x="178" y="182" width="274.1" height="18" rx="4" fill="#3A4350"/>
+<text x="480" y="195" class="f" font-size="13" font-weight="600" fill="#8B949E">98,5%</text>
+<text x="28" y="231" class="f" font-size="13" fill="#8B949E">Árvore de decisão</text>
+<rect x="178" y="218" width="292" height="18" rx="4" fill="#0F141B"/>
+<rect class="bar" style="animation-delay:0.24s" x="178" y="218" width="273.7" height="18" rx="4" fill="#3A4350"/>
+<text x="480" y="231" class="f" font-size="13" font-weight="600" fill="#8B949E">98,4%</text>
+<text x="28" y="267" class="f" font-size="13" fill="#8B949E">KNN</text>
+<rect x="178" y="254" width="292" height="18" rx="4" fill="#0F141B"/>
+<rect class="bar" style="animation-delay:0.36s" x="178" y="254" width="95.4" height="18" rx="4" fill="#3A4350"/>
+<text x="480" y="267" class="f" font-size="13" font-weight="600" fill="#8B949E">83,2%</text>
+</svg>

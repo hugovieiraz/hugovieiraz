@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-label="Curto entre espiras">
+<style>.f{font-family:'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="558" height="298" rx="12" fill="#161B22" stroke="#30363D"/>
+<rect x="1" y="1" width="6" height="298" rx="3" fill="#E5677D"/>
+<text x="28" y="40" class="f" font-size="12" font-weight="600" letter-spacing="1.5" fill="#E5677D">ARTIGO · XXI ERIAC</text>
+<text x="28" y="72" class="f" font-size="22" font-weight="700" fill="#E6EDF3">Curto entre espiras</text>
+<text x="28" y="100" class="f" font-size="14" fill="#8B949E">Estima quantas espiras estão em curto num</text>
+<text x="28" y="120" class="f" font-size="14" fill="#8B949E">transformador a partir do termograma.</text>
+<line x1="28" y1="146" x2="532" y2="146" stroke="#30363D"/>
+<text x="32" y="210" class="f" font-size="30" font-weight="700" fill="#E6EDF3">14,8</text>
+<text x="32" y="236" class="f" font-size="13" fill="#8B949E">espiras de erro em</text>
+<text x="32" y="254" class="f" font-size="13" fill="#8B949E">severidade nova</text>
+<line x1="188" y1="170" x2="188" y2="262" stroke="#30363D"/>
+<text x="200" y="210" class="f" font-size="30" font-weight="700" fill="#E6EDF3">97%</text>
+<text x="200" y="236" class="f" font-size="13" fill="#8B949E">das imagens no</text>
+<text x="200" y="254" class="f" font-size="13" fill="#8B949E">nível certo</text>
+<line x1="356" y1="170" x2="356" y2="262" stroke="#30363D"/>
+<text x="368" y="210" class="f" font-size="30" font-weight="700" fill="#E6EDF3">0,997</text>
+<text x="368" y="236" class="f" font-size="13" fill="#8B949E">F1 no motor</text>
+<text x="368" y="254" class="f" font-size="13" fill="#8B949E">de indução</text>
+</svg>
