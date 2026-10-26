@@ -41,26 +41,37 @@ Uso programação e machine learning como ferramenta para problemas da elétrica
 </tr>
 </table>
 
+## 🔬 Pesquisa
+
+### [Pyron · manutenção preditiva por termografia](https://github.com/hugovieiraz/pyron)
+
+Aplicativo que lê a temperatura de cada pixel do termograma, encontra os componentes (para-raios, terminais) e classifica a severidade pela **NBR 15866**, comparando com a temperatura máxima admissível e com as outras fases. No fim, gera o laudo em PDF.
+
+| Detector de para-raios (RF-DETR) | Temperatura pela barra de cores | Versão rápida (INT8) |
+|:---:|:---:|:---:|
+| mAP50 **0,86** | erro mediano **0,5 °C** | **~240 ms** por imagem na CPU |
+
+`PyTorch` `ONNX` `FastAPI` `OpenCV` `ReportLab` `C#`
+
+### [Curto entre espiras por termografia · XXI ERIAC](https://github.com/hugovieiraz/curto-espiras-termografia)
+
+Código e artigo do trabalho. A partir de termogramas de um transformador de bancada, o modelo estima quantas espiras estão em curto (de 0 a 600), com intervalo de incerteza e aviso quando a imagem foge do que ele conhece.
+
+| Severidade nunca vista no treino | Nível certo | Motor de indução (11 condições) |
+|:---:|:---:|:---:|
+| erro médio de **14,8 espiras** em 600 | **97 %** das imagens | F1 **0,997** |
+
+`DINOv2` `MobileNetV3` `scikit-learn` `LaTeX`
+
 ## 🧠 Experimentos de Machine Learning
 
 Quatro problemas de engenharia elétrica, cada um com comparação de modelos, validação cruzada e métricas no conjunto de teste.
 
 <p align="center">
-  <a href="https://github.com/hugovieiraz/diagnostico-acionamentos-eletricos-ml"><img src="./assets/ml/acionamentos.svg" width="49%" alt="Diagnóstico de acionamentos: Random Forest com F1-macro de 99,9%"/></a>
-  <a href="https://github.com/hugovieiraz/electrical-grid-stability"><img src="./assets/ml/rede.svg" width="49%" alt="Estabilidade da rede: Regressão Logística com 81,2% de acurácia"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/hugovieiraz/cv-solar-panel-classification"><img src="./assets/ml/solar.svg" width="49%" alt="Placas solares: MobileNetV2 com 80,3% de acurácia"/></a>
-  <a href="https://github.com/hugovieiraz/appliances-energy-prediction"><img src="./assets/ml/consumo.svg" width="49%" alt="Consumo de eletrodomésticos: RMSE de 92,5 Wh"/></a>
-</p>
-
-## 🔬 Pesquisa
-
-Projetos do Laboratório de Alta Tensão com câmeras térmicas em equipamentos elétricos.
-
-<p align="center">
-  <a href="https://github.com/hugovieiraz/pyron"><img src="./assets/pyron.svg" width="49%" alt="Pyron: manutenção preditiva por termografia"/></a>
-  <a href="https://github.com/hugovieiraz/curto-espiras-termografia"><img src="./assets/espiras.svg" width="49%" alt="Curto entre espiras por termografia, artigo do XXI ERIAC"/></a>
+  <a href="https://github.com/hugovieiraz/diagnostico-acionamentos-eletricos-ml"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ml/acionamentos-dark.svg"/><img src="./assets/ml/acionamentos-light.svg" width="49%" alt="diagnostico-acionamentos-eletricos-ml: F1 de 99,9% com Random Forest"/></picture></a>
+  <a href="https://github.com/hugovieiraz/electrical-grid-stability"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ml/rede-dark.svg"/><img src="./assets/ml/rede-light.svg" width="49%" alt="electrical-grid-stability: acurácia de 81,2%"/></picture></a>
+  <a href="https://github.com/hugovieiraz/cv-solar-panel-classification"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ml/solar-dark.svg"/><img src="./assets/ml/solar-light.svg" width="49%" alt="cv-solar-panel-classification: acurácia de 80,3%"/></picture></a>
+  <a href="https://github.com/hugovieiraz/appliances-energy-prediction"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ml/consumo-dark.svg"/><img src="./assets/ml/consumo-light.svg" width="49%" alt="appliances-energy-prediction: RMSE de 92,5 Wh"/></picture></a>
 </p>
 
 ## 🚀 Experiências e atividades
