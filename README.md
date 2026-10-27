@@ -19,7 +19,7 @@
 <tr>
 <td width="62%" valign="top">
 
-### Sobre mim
+### Sobre
 
 Sou estudante de Engenharia Elétrica na UFCG. Meu interesse principal é sistemas de potência, em especial transmissão de energia, e gosto de trabalho prático: bancada, campo e simulação.
 
